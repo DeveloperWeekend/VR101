@@ -17,25 +17,25 @@ Creates a cube with each side 1 unit in length. It can be used as a box of any d
 
 #### Sphere
 
-![https://docs.unity3d.com/](.gitbook/assets/image%20%286%29.png)
+![https://docs.unity3d.com/](.gitbook/assets/image%20%2813%29.png)
 
 Creates a sphere of unit diameter \( radius - 0.5 units \)
 
 #### Cylinder
 
-![https://docs.unity3d.com/](.gitbook/assets/image%20%283%29.png)
+![https://docs.unity3d.com/](.gitbook/assets/image%20%289%29.png)
 
 This is a simple cylinder, 2 units tall and 1 unit wide.
 
 #### Plane
 
-![https://docs.unity3d.com/](.gitbook/assets/image%20%2812%29.png)
+![https://docs.unity3d.com/](.gitbook/assets/image%20%2819%29.png)
 
 This is a flat surface, 10 units long and placed on the xz plane of the local coordinate system.
 
 #### Quad
 
-![https://docs.unity3d.com/](.gitbook/assets/image%20%281%29.png)
+![https://docs.unity3d.com/](.gitbook/assets/image%20%282%29.png)
 
 The quad is a one unit long primitive, though it looks like the plane, it is smaller, renders 2 sides unlike the plane which renders only top side and is oriented in the local xy axis.
 
@@ -94,5 +94,5 @@ The _Scale tool_ lets you scale a GameObject either along a single axis, or prop
 The shortcut keys for the Hand Tool is - Q, Translate is W, Rotate is E, and Scale is R.   
 So for any transform control, you can use " Q, W, E and R" to easily get things done.
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 

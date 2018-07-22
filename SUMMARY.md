@@ -3,6 +3,8 @@
 * [Welcome to VR101 with Facebook @ SV.Co](README.md)
 * [Intro](intro.md)
 * [Intro to Virtual Reality](intro-to-virtual-reality.md)
+* [VR Devices](tools-to-build-vr-content.md)
+* [Tools to build VR Content](virtual-reality.md)
 * [Installing Unity3D Software](installing-unity-softeware.md)
 * [Unity Interface](unity-ui.md)
 * [Unity Primitives and Transform controls](unity-primitives-and-transform-controls.md)
