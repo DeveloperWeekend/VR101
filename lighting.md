@@ -40,3 +40,15 @@ You can add light to any scene by Selecting GameObject &gt; Light &gt; -- and se
 
 ![](.gitbook/assets/image%20%2830%29.png)
 
+
+
+{% hint style="warning" %}
+Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
+{% endhint %}
+
+{% hint style="info" %}
+## Video Reference
+
+* [Understanding Unity Interference](https://www.youtube.com/watch?v=z92ZfYEyojI) 
+{% endhint %}
+

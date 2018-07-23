@@ -91,3 +91,7 @@ These are the basics Unity Interface elements that you will be dealing with. To 
 * [Understanding Unity Interference](https://www.youtube.com/watch?v=z92ZfYEyojI) 
 {% endhint %}
 
+{% hint style="warning" %}
+Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
+{% endhint %}
+

@@ -30,5 +30,15 @@ You can change the properties you wish to change for the text from the inspector
 
 ![Text properties in Inspector](.gitbook/assets/image%20%2831%29.png)
 
-So, for 
+{% hint style="warning" %}
+Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
+{% endhint %}
+
+
+
+{% hint style="info" %}
+## Video Reference
+
+* [Understanding Unity Interference](https://www.youtube.com/watch?v=z92ZfYEyojI) 
+{% endhint %}
 
