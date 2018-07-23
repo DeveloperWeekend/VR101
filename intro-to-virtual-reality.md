@@ -1,6 +1,6 @@
 # Intro to Virtual Reality
 
-Virtual reality \(VR\) means experiencing things through our computers that don't really exist.
+**Virtual reality \(VR\)** means experiencing things through our computers that don't really exist.
 
 When you look at an amazing Canaletto painting, for example, you're experiencing the sites and sounds of Italy as it was about 250 years ago—that's a kind of virtual reality. In the same way, if you listen to ambient instrumental or classical music with your eyes closed, and start dreaming about things, isn't that an example of virtual reality—an experience of a world that doesn't really exist? What about losing yourself in a book or a movie? Surely that's a kind of virtual reality?
 
@@ -22,8 +22,11 @@ VR is quite different. It makes you think you are actually living inside a compl
 
 > Courtesy : [https://www.explainthatstuff.com/virtualreality.html](https://www.explainthatstuff.com/virtualreality.html)
 
-{% hint style="danger" %}
-\[PENDING\] - We will re-do this with More Appropriate Images and Simpler Content
+{% hint style="info" %}
+## Video Reference:
+
+* [ ] [What Is Virtual Reality & How Does It Work? \| Mashable Explains](https://www.youtube.com/watch?v=HBNH8tzsfVM)
+* [ ] [Virtual Reality: Explained! by ****Marques Brownlee](https://www.youtube.com/watch?v=i4Zt3JZejbg)
 {% endhint %}
 
 
