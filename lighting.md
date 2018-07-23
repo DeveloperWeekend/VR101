@@ -49,6 +49,6 @@ Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/
 {% hint style="info" %}
 ## Video Reference
 
-* [Understanding Unity Interference](https://www.youtube.com/watch?v=z92ZfYEyojI) 
+* [Understanding Unity Lighting ](https://www.youtube.com/watch?v=VnG2gOKV9dw)
 {% endhint %}
 

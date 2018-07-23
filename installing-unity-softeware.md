@@ -55,9 +55,9 @@ Once you see something like this, your installation of Unity3d is complete.
 {% hint style="info" %}
 ## Reference Videos - Installing Unity
 
-* [ ] [Windows Installation](https://www.youtube.com/watch?v=vzSAZozZz5I)
-* [ ] [Mac Installation ](https://www.youtube.com/watch?v=YC3924upas8)
-* [ ] [Linux Installation](https://www.youtube.com/watch?v=TCSGa3V78hg)
+* [Windows Installation](https://www.youtube.com/watch?v=vzSAZozZz5I)
+* [Mac Installation ](https://www.youtube.com/watch?v=YC3924upas8)
+* [Linux Installation](https://www.youtube.com/watch?v=TCSGa3V78hg)
 {% endhint %}
 
 {% hint style="success" %}
