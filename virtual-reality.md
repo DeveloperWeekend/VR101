@@ -45,5 +45,5 @@ It also has simple-to-use Visual Programming editor called "Patches" which can b
 
 
 
-In VR 101, we will be focusing on Unity 3D to create your first VR Experience. The following pages will guide you through installing the Unity3D Software and basics of how to use it to create cool environments and experiences for VR.
+In this **VR 101** Course , we will be focusing on **Unity 3D** to create your first VR Experience. The following pages will guide you through installing the Unity3D Software and basics of how to use it to create cool environments and experiences for VR.
 

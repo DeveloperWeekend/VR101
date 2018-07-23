@@ -55,27 +55,20 @@ Once you see something like this, your installation of Unity3d is complete.
 {% hint style="info" %}
 ## Reference Videos - Installing Unity
 
-* [ ] Video -1 : [https://www.youtube.com/watch?v=vzSAZozZz5I](https://www.youtube.com/watch?v=vzSAZozZz5I)
-* [ ] Video- 2 : 
-* [ ] 
+* [ ] [Windows Installation](https://www.youtube.com/watch?v=vzSAZozZz5I)
+* [ ] [Mac Installation ](https://www.youtube.com/watch?v=YC3924upas8)
+* [ ] [Linux Installation](https://www.youtube.com/watch?v=TCSGa3V78hg)
 {% endhint %}
 
 {% hint style="success" %}
-To Do \(\* A Summarize To-Do list for Students\)
+To Do \(A Summarize To-Do list for Students\)
 
 * [ ] Downloading Unity
 * [ ] Installing Unity
-* [ ] 
-{% endhint %}
-
-{% hint style="danger" %}
-## QUIZ 
-
-We will Add the Quiz here for every lesson here
 {% endhint %}
 
 {% hint style="warning" %}
-Got Struck??? Ask for help
+Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
 {% endhint %}
 
 

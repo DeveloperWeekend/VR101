@@ -103,5 +103,13 @@ Some of these headsets are shown below
 
 ![](https://lh5.googleusercontent.com/QaNThwqczopdzGqToH5ZX6cX22ivN912orZNPlmpo-EkQXVEauZtWxww_Hstcf6TKQPH1TPUX0gezkuOCxGhhweTa79DoWzuvMflUhE1Bg0AYCVSV9IGQAKf1-H59HFZV5h97YbJIi4)
 
-Now lets check out how we would be building these VR experiences.
+![Image Courtesy : https://www.theverge.com/a/best-vr-headset-oculus-rift-samsung-gear-htc-vive-virtual-reality](.gitbook/assets/capture.PNG)
+
+**Now lets check out how we would be building these VR experiences.**
+
+{% hint style="info" %}
+## Reference Material
+
+[THE ULTIMATE VR HEADSET BUYER’S GUIDE from The VERGE](https://www.theverge.com/a/best-vr-headset-oculus-rift-samsung-gear-htc-vive-virtual-reality)
+{% endhint %}
 
