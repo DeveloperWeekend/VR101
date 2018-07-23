@@ -12,4 +12,5 @@
 * [Lighting](lighting.md)
 * [Audio](audio.md)
 * [Assignments](assignments.md)
+* [How to Submit Your Assignments](how-to-submit-your-assignments.md)
 
