@@ -40,6 +40,10 @@ You will have to create a free account, if this is the first time you are instal
 
 Once you have created an account, logged into unity, the new project window pops up.
 
+{% hint style="danger" %}
+Your laptop must be connected to Internet when you creating your unity account. 
+{% endhint %}
+
 ![](.gitbook/assets/7%20%281%29.jpg)
 
 Click on New Project.
