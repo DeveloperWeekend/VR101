@@ -18,17 +18,17 @@ These are basically 360 Degree Camera-shot images or videos or rendered scenes o
 
 Camera shot 360 media enable you to experience or see a real-life place or scenario shot using a 360 degree camera. 
 
-![A 360 degree panoramic Image. Courtesy : Lynda.com](.gitbook/assets/image%20%2812%29.png)
+![A 360 degree panoramic Image. Courtesy : Lynda.com](.gitbook/assets/image%20%2817%29.png)
 
 While a Rendered 360 Image or a video lets people experience images and scenes that were computer generated using any 3D application.
 
-![A realistic 360 render of a house. \| Courtesy : Redway3D](.gitbook/assets/image%20%2824%29.png)
+![A realistic 360 render of a house. \| Courtesy : Redway3D](.gitbook/assets/image%20%2832%29.png)
 
 #### Computer Generated 3D VR
 
 This is completely 3D immersive VR where you build a 3D space for the user to explore and interact with. 
 
-![Courtesy : Miami.com](.gitbook/assets/image%20%288%29.png)
+![Courtesy : Miami.com](.gitbook/assets/image%20%2812%29.png)
 
 ## VR Devices
 
@@ -47,15 +47,15 @@ Some of these Headsets are shown below:
 
 **The Oculus Rift**
 
-![Courtesy : Amazon.in](.gitbook/assets/image%20%284%29.png)
+![Courtesy : Amazon.in](.gitbook/assets/image%20%285%29.png)
 
 **HTC Vive**
 
-![Courtesy : abt.com](.gitbook/assets/image%20%2811%29.png)
+![Courtesy : abt.com](.gitbook/assets/image%20%2816%29.png)
 
 **Playstation VR**
 
-![Courtesy : NYMag](.gitbook/assets/image%20%283%29.png)
+![Courtesy : NYMag](.gitbook/assets/image%20%284%29.png)
 
 Playstation VR is the most famous VR headset and it connets only to a Playstation 4 \(PS4\)
 
@@ -70,11 +70,11 @@ Some of these Mobile VR enablers are shown below :
 
 **Google Cardboard**
 
-![Courtesy : Amazon.com](.gitbook/assets/image%20%2815%29.png)
+![Courtesy : Amazon.com](.gitbook/assets/image%20%2821%29.png)
 
 **Samsung Gear VR**
 
-![Courtesy : Road to VR](.gitbook/assets/image%20%285%29.png)
+![Courtesy : Road to VR](.gitbook/assets/image%20%288%29.png)
 
 **Google Daydream**
 

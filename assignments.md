@@ -2,26 +2,26 @@
 
 ## Assignment 1 : VR101 Farm
 
-The objective of the assignment is to complete the Farm in the project, which can be downloaded from here :  \[72MB\]
+The objective of the assignment is to complete the Farm in the project, which can be downloaded from here : 
 
 > [https://drive.google.com/file/d/1Di7xf5XBxjqd8Y8bXUPx5TFssX5UGz8U/view?usp=sharing](https://drive.google.com/file/d/1Di7xf5XBxjqd8Y8bXUPx5TFssX5UGz8U/view?usp=sharing)
 
-**You have to :**  
+You have to :  
 - download the project file and unzip it.  
 - Open the file and Navigate to .. VR101 - Assignment &gt;&gt; Assets &gt;&gt; VR Assignment.unity  
 - Double-click and open the file.
 
 Your project should look something like this : 
 
-* add image
+![](.gitbook/assets/image%20%2813%29.png)
 
 You can look around in the environment, the environment is a farm - like , low-polygon 3D space.   
   
-You can also check out the scene in the "**Game View**" by clicking the play button and you can look around the scene by " _Moving the mouse pointer while holding the '**Alt'** key_ ".   
+You can also check out the scene in the "Game View" by clicking the play button and you can look around the scene by " _Moving the mouse pointer while holding the 'Alt' key_ ".   
 This is how you would be viewing the scene in VR. 
 
 You might have noticed that the scene in incomplete.  
-**Your task is to finish the scene by completing the following tasks .**  
+Your task is to finish the scene by completing the following tasks .  
 There are 5 tasks to be completed :
 
 * [ ] **1. Round up the sheep and horses**
@@ -33,20 +33,20 @@ There are 5 tasks to be completed :
 
 #### 1. Rounding up the sheep and the horses.
 
-Within the scene you will find that all the sheep are scattered throughout the environment. You have to move all the sheep using the "_Translate tool and rotate tool_ " , into the fence shown below.
+Within the scene you will find that all the _**sheep**_ are scattered throughout the environment. You have to move all the sheep using the "_Translate tool and rotate tool_ " , into the fence shown below.
 
-* add image here
+![](.gitbook/assets/image%20%2831%29.png)
 
-You will also find a couple of horses have also wandered off, you have to find them and bring them back to the stable near the barn using the "_Translate tool and rotate tool_ ". 
+You will also find a couple of _**horses**_ have also wandered off, you have to find them and bring them back to the stable near the barn using the "_Translate tool and rotate tool_ ". 
 
-* add image here
+![](.gitbook/assets/image%20%2836%29.png)
 
 **2. Fix the Fence** 
 
 You might have noticed that the fence for the sheep is still open and not closed.   
 You have to close the fence by fixing the broken fence pieces using the "_Translate tool and rotate tool_ ".
 
-* add image here
+![](.gitbook/assets/image%20%287%29.png)
 
 {% hint style="success" %}
 **Bonus points**  
@@ -60,7 +60,7 @@ To add them to the scene all you have to do is drag prefab into the scene.
 
 You can adjust the lighting in the scene by changing the direction of the "Directional Light"  in the hierarchy window. 
 
-* add image here
+![](.gitbook/assets/image%20%286%29.png)
 
 **4. Change the Name of the Farm**
 
@@ -68,7 +68,7 @@ This farm practically belongs to you now, since you have done all this work in r
   
 You can change the Farm's name on the signboard by selecting the text and changing it to "\*your name\*".
 
-* add image here
+![](.gitbook/assets/image%20%2820%29.png)
 
 For Example if you name is "Raj", then you have to change the name to " Raj's Farm " or any crazy name you can think of.
 
@@ -80,6 +80,8 @@ You will also find an "Audio Source" in the hierarchy window aswell. Select the 
 
 * add image here
 
+![](.gitbook/assets/image%20%2829%29.png)
+
 You can test your scene at any point by turning on the "Play Mode". Make sure that whatever you add to the scene should be visible in the Play mode when you look around the scene by moving the mouse while pressing the "Alt" key.
 
 
@@ -88,10 +90,16 @@ You can test your scene at any point by turning on the "Play Mode". Make sure th
 
 To submit your application, you need to take a screen video of the scene, while in Play mode while slowly rotating the view in the game view. Make sure all the elements you would want to show is perfectly captured in the screen video.
 
-* add image or video here
-* need to add links to how to take a screen video record.
 
 
+![](.gitbook/assets/image%20%2810%29.png)
+
+![](.gitbook/assets/image%20%2839%29.png)
+
+To capture a Screen Video, Windows 10 users can Press "windows button + G" and record the screen.  
+Others can use any Screen Recording software to record their Screen.  
+  
+The steps to Submit your video is described on the next page.
 
 
 
