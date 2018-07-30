@@ -2,11 +2,11 @@
 
 ## Assignment 1 : VR101 Farm
 
-The objective of the assignment is to complete the Farm in the project, which can be downloaded from here : 
+The objective of the assignment is to complete the Farm in the project, which can be downloaded from here :  \[72MB\]
 
 > [https://drive.google.com/file/d/1Di7xf5XBxjqd8Y8bXUPx5TFssX5UGz8U/view?usp=sharing](https://drive.google.com/file/d/1Di7xf5XBxjqd8Y8bXUPx5TFssX5UGz8U/view?usp=sharing)
 
-You have to :  
+**You have to :**  
 - download the project file and unzip it.  
 - Open the file and Navigate to .. VR101 - Assignment &gt;&gt; Assets &gt;&gt; VR Assignment.unity  
 - Double-click and open the file.
@@ -17,11 +17,11 @@ Your project should look something like this :
 
 You can look around in the environment, the environment is a farm - like , low-polygon 3D space.   
   
-You can also check out the scene in the "Game View" by clicking the play button and you can look around the scene by " _Moving the mouse pointer while holding the 'Alt' key_ ".   
+You can also check out the scene in the "**Game View**" by clicking the play button and you can look around the scene by " _Moving the mouse pointer while holding the '**Alt'** key_ ".   
 This is how you would be viewing the scene in VR. 
 
 You might have noticed that the scene in incomplete.  
-Your task is to finish the scene by completing the following tasks .  
+**Your task is to finish the scene by completing the following tasks .**  
 There are 5 tasks to be completed :
 
 * [ ] **1. Round up the sheep and horses**
